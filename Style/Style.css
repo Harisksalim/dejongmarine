@@ -1,0 +1,381 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.firsthrtag{
+    margin-top: 20px;
+}
+.leftsection1 ul{
+    display: flex;
+    
+    
+}
+.leftsection1 li{
+    margin: 5px;
+    list-style: none;
+    
+}
+.leftsection1 a{
+    text-decoration: none;
+}
+.rightsection1 ul{
+    display: flex;
+
+}
+.main_hedercontainer1{
+    display: flex;
+}
+
+.rightsection1 ul{
+    display: flex;
+    
+    
+}
+.rightsection1 li{
+    margin: 10px;
+    list-style: none;
+    
+}
+.rightsection1 a{
+    text-decoration: none;
+}
+.rightsection1{
+    margin-left: 380px;
+}
+.secondhrtag{
+    margin-top: 5px;
+}
+ .redcolour{
+    color: red;
+}
+.leftsection3 .logoimg{
+    width: 324px;
+    height: 100px;
+    margin-left: 20px;
+}
+.rightsection4 ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 50px;
+   
+   
+}
+.rightsection4 li{
+   margin-left: 30px;
+   margin-top: 20px;
+}
+.main_hedercontainer2{
+    display: flex;
+}
+.rightsection4{
+    margin-left: 730px;
+}
+.rightsection4 a{
+    margin-top: 50px;
+}
+.main_hedercontainer3{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(5, 5, 98);
+}
+.leftsection5 ul{
+    display: flex;
+    margin-top: 10px;
+    
+}
+.leftsection5 a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    
+}
+.rightsection6 ul{
+    display: flex;
+   
+
+}
+.main_hedercontainer3{
+    display: flex;
+    
+    
+}
+.leftsection5 li{
+    margin: 10px;
+}
+
+.rightsection6 a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+.rightsection6 li{
+    margin-top: 18px;
+
+}
+.rightsection6 {
+    margin-left: 450px;
+}
+.firstbgimg{
+    width: 100%;
+    height: 1100px;
+}
+
+.mainheading1 .firsth1{
+    position: absolute;
+    top: 240px;
+    left: 375px;
+    font-size: 45px;
+    color: #fff;
+    font-weight: lighter;
+}
+.mainheading1 .secondh1{
+    position: absolute;
+    top: 290px;
+    left: 330px;
+    font-size: 45px;
+    color: #fff;
+    font-weight: lighter;
+}
+.mainheading1 .firsth3{
+    position: absolute;
+    top: 385px;
+    left: 540px;
+    
+    color: #fff;
+    font-weight: lighter;
+
+}
+ .main_picturediv1 .image1{
+    width: 271px;
+    height: 325px;
+    background-color:white;
+    position: absolute;
+    top: 502px;
+    left: 80px;
+}
+.image1p{
+    position: absolute;
+    top: 773px;
+    left: 104px;
+    color: black;
+    font-size: 16px;
+}
+/* ............... */
+
+
+ .main_picturediv1 .image2{
+    width: 271px;
+    height: 325px;
+    background-color: white;
+    position: absolute;
+    top: 502px;
+    left: 375px;
+}
+.image2p{
+    position: absolute;
+    top: 773px;
+    left: 386px;
+    color: black;
+    font-size: 16px;
+}
+/* ................................. */
+.main_picturediv1 .image3{
+    width: 271px;
+    height: 325px;
+    background-color: white;
+    position: absolute;
+    top: 502px;
+    left: 665px;
+}
+.image3p{
+    position: absolute;
+    top: 773px;
+    left: 714px;
+    color: black;
+    font-size: 16px;
+}
+/* .......................... */
+.main_picturediv1 .image4{
+    width: 271px;
+    height: 325px;
+    background-color: white;
+    position: absolute;
+    top: 502px;
+    left: 957px;
+}
+.image4p{
+    position: absolute;
+    top: 773px;
+    left: 1017px;
+    color: black;
+    font-size: 16px;
+}
+.main_picturediv2_firsth3{
+    position: absolute;
+    letter-spacing: 7px;
+    top: 850px;
+    left: 560px;
+    color: #fff;
+}
+.brand1{
+    position: absolute;
+    top: 913px;
+    left: 25px;
+}
+.brand2{
+    position: absolute;
+    top: 905px;
+    left: 290px;
+}
+.brand3{
+    position: absolute;
+    top: 917px;
+    left: 500px;
+}
+.brand4{
+    position: absolute;
+    top: 917px;
+    left: 710px;
+}
+.brand5{
+    position: absolute;
+    top: 917px;
+    left: 910px;
+}
+.brand6{
+    position: absolute;
+    top: 915px;
+    left: 1100px;
+}
+.main_picturediv3_firsth4{
+    position: absolute;
+    letter-spacing: 7px;
+    top: 1010px;
+    left: 530px;
+    color: #fff;
+}
+.pro1{
+    position: absolute;
+    top: 1066px;
+    left: 66px;
+}
+.pro_1{
+    position: absolute;
+    top: 1271px;
+    left: 102px;
+}
+.pro2{
+    position: absolute;
+    top: 1066px;
+    left: 355px;
+}
+.pro_2{
+    position: absolute;
+    top: 1286px;
+    left: 420px;
+}
+.pro3{
+    position: absolute;
+    top: 1066px;
+    left: 644px;
+}
+.pro_3{
+    position: absolute;
+    top: 1295px;
+    left: 702px;
+}
+.pro4{
+    position: absolute;
+    top: 1066px;
+    left: 935px;
+}
+.pro_4{
+    position: absolute;
+    top: 1279px;
+    left: 966px;
+}
+.backgroungimglast{
+    width: 100%;
+   position: absolute;
+   top:1320px
+}
+
+.pro5{
+    position: absolute;
+    top: 1339px;
+    left: 65px;
+}
+.pro_5{
+    position: absolute;
+    top: 1572px;
+    left: 148px
+}
+.pro6{
+    position: absolute;
+    top: 1339px;
+    left: 356px;
+}
+.pro_6{
+    position: absolute;
+    top: 1572px;
+    left: 425px
+}
+.pro7{
+    position: absolute;
+    top: 1339px;
+    left: 645px;
+}
+.pro_7{
+    position: absolute;
+    top: 1572px;
+    left: 735px
+}
+.pro8{
+    position: absolute;
+    top: 1339px;
+    left: 937px;
+}
+.pro_8{
+    position: absolute;
+    top: 1572px;
+    left: 1033px
+}
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(3, 3, 90);
+    position: absolute;
+    top:1679px;
+    
+}
+.footer h4{
+    color: white;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.footer p{
+    color: #fff;
+    margin: 10px;
+    font-weight: 1px;
+}
+.aboutdiv{
+    position: absolute;
+    top: -4px;
+    left: 304px;
+}
+.webshop{
+    position: absolute;
+    position: absolute;
+    top: -4px;
+    left: 660px;
+}
+.contactus{
+    position: absolute;
+    position: absolute;
+    top: -4px;
+    left: 995px;
+}
